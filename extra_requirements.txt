@@ -1,0 +1,12 @@
+wandb
+torch-fidelity
+# Core - CUDA 12.2 (cu124) Compatible
+torch==2.5.1+cu124
+torchvision==0.20.1+cu124
+
+# HuggingFace Ecosystem
+transformers==4.39.3
+diffusers==0.26.3
+huggingface_hub==0.23.0
+accelerate==0.25.0
+peft==0.10.0
